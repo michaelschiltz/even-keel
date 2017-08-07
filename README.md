@@ -1,5 +1,5 @@
 # Even-Keel
-**“On an Even Keel”:  Silver Risk, Trade Finance,  and Hedging Strategies  around the Turn of the Twentieth Century**
+## **“On an Even Keel”:  Silver Risk, Trade Finance,  and Hedging Strategies  around the Turn of the Twentieth Century**
 
 ### Introduction
 Whereas the emergence of the classical gold standard (1870-1900) has attracted considerable attention in economic literature, only very few authors have inquired into the protracted confidence crisis of silver, which was the former’s corollary. Building on the results of authors as Calomiris, Oppers and Flandreau, this book explores the evolution of management practice in (mostly Western) exchange banks in Asia. Using an approach that could arguably called ‘forensic accounting’, it attempts not only to show that contemporaries were aware of the problems that were caused by the gyrations of the silver price, but that they also sought to actively remedy its harmful effects on trade between gold and silver using countries. We describe how experiment with financial instruments eventually led to success. 
