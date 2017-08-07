@@ -6,7 +6,7 @@ Whereas the emergence of the classical gold standard (1870-1900) has attracted c
 Next, and contrary to the commonly held belief that nineteenth century bankers did not have a sophisticated understanding of hedging strategies, we show, in a quantitative way, that hedging strategies existed, and that they impacted banks’ operations in profound ways. More specifically, we use the mostly unexplored accounting data and archives of the Yokohama Specie Bank (*yokohama shōkin ginkō* 横濱正金銀行) in order to describe the bank’s wrought management history in the tumultuous years around the turn of the twentieth century. YSB had to come to grips with Japan’s effort at adopting the gold standard (1897), the difficult expansionary ‘postbellum administration’, and early consolidation of the country’s imperialism (after the Russo-Japanese War of 1904-05). All events would shape not only the bank’s operations and expansion in Asia, but also affect the organization of its branch network, and the management of its flow-of-funds.
 
 ### This repository:
-... **will be used to document the technical (i.e. mostly database specific) aspects of the book project**. It uses the power of the Markdown language to create a sustainabble log-book on
+... **will be used to document the technical (i.e. mostly database specific) aspects of the book project**. It uses the power of the Markdown language to create a sustainable log-book on
 
 1. decisions with regard to database architecture, 
 2. info on which data to include and, more importantly, to exclude
