@@ -8,9 +8,9 @@ Next, and contrary to the commonly held belief that nineteenth century bankers d
 ### This repository:
 ... **will be used to document the technical (i.e. mostly database specific) aspects of the book project**. It uses the power of the Markdown language to create a sustainable log-book on
 
-1. decisions with regard to database architecture, 
-2. info on which data to include and, more importantly, to exclude
-3. the choice of software package(s) and algorithms used for visualizing the underlying data
-4. tests done and results used or discarded
-5. the quality and nature of the sources used to construct the dataset
-6. in general, notes on encountered problems, misunderstandings and necessary corrections when writing out the manuscript's versions
+1. [decisions with regard to database architecture](https://github.com/michaelschiltz/even-keel/blob/master/1.%20database%20architecture.md), 
+2. [info on which data to include and, more importantly, to exclude](https://github.com/michaelschiltz/even-keel/blob/master/2.%20data%20inclusion%20and%20exclusion.md),
+3. [the choice of software package(s) and algorithms used for visualizing the underlying data](https://github.com/michaelschiltz/even-keel/blob/master/3.%20software%20packages%20and%20algorithms%20employed.md),
+4. [tests done and results used or discarded](https://github.com/michaelschiltz/even-keel/blob/master/4.%20tests%20done%20and%20results%20used%20or%20discarded.md),
+5. the [quality and nature of the sources used to construct the dataset](https://github.com/michaelschiltz/even-keel/blob/master/5.%20quality%20and%20nature%20of%20sources%20for%20construction%20of%20the%20dataset.md), and
+6. in general, [notes on encountered problems, misunderstandings and necessary corrections when writing out the manuscript's versions](https://github.com/michaelschiltz/even-keel/blob/master/6.%20other.md).
