@@ -13,4 +13,4 @@ Next, and contrary to the commonly held belief that nineteenth century bankers d
 3. [the choice of software package(s) and algorithms used for visualizing the underlying data](https://github.com/michaelschiltz/even-keel/blob/master/3.%20software%20packages%20and%20algorithms%20employed.md),
 4. [tests done and results used or discarded](https://github.com/michaelschiltz/even-keel/blob/master/4.%20tests%20done%20and%20results%20used%20or%20discarded.md),
 5. the [quality and nature of the sources used to construct the dataset](https://github.com/michaelschiltz/even-keel/blob/master/5.%20quality%20and%20nature%20of%20sources%20for%20construction%20of%20the%20dataset.md), and
-6. in general, [notes on encountered problems, misunderstandings and necessary corrections when writing out the manuscript's versions](https://github.com/michaelschiltz/even-keel/blob/master/6.%20other.md).
+6. in general, [notes on problems encountered, misunderstandings and necessary corrections when writing out the manuscript's versions](https://github.com/michaelschiltz/even-keel/blob/master/6.%20other.md).
